@@ -1,4 +1,4 @@
-![Mi perfil de GitHub](Perfil GitHub Neón_ bravocb11-hub.png)
+![Mi perfil de GitHub](github-banner.png)
 
 # Hola, soy bravocb11-hub 👋
 
