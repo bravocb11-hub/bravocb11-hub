@@ -2,7 +2,7 @@
 
 ![Mi perfil de GitHub](github-banner.png)
 
-# 👋 ¡Hola! Soy bravocb11-hub
+# 👋 ¡Hola! Soy Ivan Cabrera
 
 ### 👨‍💻 Ingeniero en Sistemas | 🎓 Maestría en Inteligencia Artificial (en curso)
 
